@@ -1,0 +1,24 @@
+/* Your custom styles */
+body {
+	padding-top: 10px;
+}
+
+#loginform {
+	width: 30%;
+ 	margin-top: 100px;
+ 	box-shadow: 4px 4px 4px 4px;
+ 	padding: 15px;
+}
+
+#errormessage {
+	color: red;
+	text-align: center;
+}
+
+#signup-form {
+	width: 50%;
+ 	margin-top: 100px;
+ 	box-shadow: 4px 4px 4px 4px;
+ 	padding: 15px;
+ 	margin: 0 auto;
+}
